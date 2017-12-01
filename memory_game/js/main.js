@@ -1,4 +1,4 @@
-  var cards = [
+var cards = [
 	{
 		rank: "queen",
 		suit: "hearts",
@@ -51,6 +51,7 @@ var createBoard = function () {
 	cardElement.addEventListener('click', flipCard);
 	document.getElementById('game-board').appendChild(cardElement);
 }
+
 }; 
 
 createBoard();
