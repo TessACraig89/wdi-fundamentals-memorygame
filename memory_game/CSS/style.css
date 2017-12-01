@@ -117,3 +117,8 @@ button {
     color: #F15B31;
     font-weight: 700;
 }
+
+.gap {
+    margin-left: 4px;
+    margin-right: 4px;
+}
