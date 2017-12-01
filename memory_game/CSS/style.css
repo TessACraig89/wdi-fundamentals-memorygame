@@ -85,6 +85,15 @@ footer {
     font-weight: 500;
 }
 
+button {
+    margin-top: 30px;
+    background-color: #00A6B3;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    font: "Raleway";
+}
+
 .copyright {
     float: left;
 }
@@ -106,3 +115,12 @@ footer {
     color: #F15B31;
     font-weight: 700;
 }
+
+.developer {
+    color: white;
+    font-size: 14px;
+    letter-spacing: .08em;
+    font-weight: 500;
+}
+
+
